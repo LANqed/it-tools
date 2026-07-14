@@ -2,8 +2,8 @@ export const config = {
   runtime: "edge",
 };
 
-export default function handler() {
-  return new Response(null, {
+export default function () {
+  return new Response("", {
     status: 204,
     headers: {
       "Cache-Control": "no-store",
