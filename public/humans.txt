@@ -1,0 +1,16 @@
+/* TEAM */
+Developer: LANqed
+Website: https://tools.lanqed.top
+Twitter: @LNqwq
+
+/* SITE */
+Name: Mikannoの工具箱
+URL: https://tools.lanqed.top
+
+/* CREDITS */
+Based on: IT Tools
+Original Author: Corentin Thomasset
+Original Repository: https://github.com/LANqed/it-tools
+
+
+
